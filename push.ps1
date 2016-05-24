@@ -1,0 +1,3 @@
+echo Publishing package ...
+
+.\nuget.exe push jQuery.NuGet.2.2.4.nupkg

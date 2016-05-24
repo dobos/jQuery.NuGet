@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>jQuery.NuGet</id>
+    <version>2.2.4</version>
+    <authors>The jQuery Foundation</authors>
+    <owners></owners>
+    <licenseUrl>https://jquery.org/license/</licenseUrl>
+    <projectUrl>http://jquery.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>jQuery is a fast, small, and feature-rich JavaScript library.</description>
+    <releaseNotes>Contains js source.</releaseNotes>
+    <copyright>(c) 2016 The jQuery Foundation</copyright>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
